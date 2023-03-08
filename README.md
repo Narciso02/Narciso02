@@ -18,8 +18,6 @@ Sou o Narciso Gonga
 <img align="center" alt="Rafa-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//php/php-plain.svg">
 <img align="center" alt="Rafa-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  
-  ![Snake animation](https://github.com/Narciso02/Narciso02/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
@@ -28,4 +26,4 @@ Sou o Narciso Gonga
 <a href="https:#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https:#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Narciso02&repo=Narciso02&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+ ![Snack animation](https://github.com/Narciso02/Narciso02/blob/output/github-contribution-grid-snake.svg)
