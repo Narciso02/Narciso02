@@ -27,4 +27,8 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Narciso02&repo=Narciso02&theme=react)](https://github.com/Narciso02/Narciso02)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
